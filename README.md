@@ -1,5 +1,5 @@
 
-![I am Web Developer]([https://avatars.githubusercontent.com/u/128087434?s=400&u=d7364d09384f322b6b26c8ac339b582213114e60&v=4](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png))
+![I am Web Developer](profile-readme-generator/images/banner.png))
 ### Hi there 👋, Hello, I am Ishtiak Ahmed
 #### I am Web Developer
 
