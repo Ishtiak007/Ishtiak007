@@ -1,19 +1,19 @@
 ### Hi there 👋, I am Ishtiak Ahmed
-#### I'm a Web Developer.
-![I'm a Web Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### A web learner.
+![A web learner.](https://camo.githubusercontent.com/2b7b6adbba4158608ec9d531469401b3044ca959db631b6f1a6c71a30ca87a06/68747470733a2f2f692e6962622e636f2f363857377751662f5745422d444556454c4f5045522d322e676966)
 
-I am Ishtiak Ahmed. I have dreamed since my childhood that I will fulfill my mother's dream. As my mother hastily left, I become very distraught. I'm still struggling to get myself togather. At a certain point,I realized that not my mother only,but my dada-dadi,khala-khalu,chacha-chachi,elder brother,fupa-fupi and my whole villagares was looking at me so that I could do something good. I want to fulfill the dreams of my family members and my villagares. I find my mother in my own face. It always feels like my mother is with me. I want to show my mother around the world.My recent target is to get a job in any Australian company through Web-Development profession. <br> Biggest fan of Marvel movie but most of the time South Indian movie is seen more often. Most favourite web series is MONEY HEIST & DARK. My time is going to be as bad as current situation of Team Barcelona, But I belive that me & Team Barcelona will come back like team Argentina one day. My favorite cricket teams are Australia, Bangladesh ,England. Favorite cricketer is Virat Kohli. My biggest dream is to gradually settle in Australia. I do not know how this will happen. But one day will, In-sha-allah
+I am a web development learner. I already finished HTML ,CSS, BOOTSTRAP, Git and GitHub. Now started Tailwind CSS
 
-Skills: HTML/CSS/BOOTSTRAP-CSS/GIT & GITHUB/Tailwind css
+Skills: C/ HTML/ CSS/ BOOTSTRAP/ Git and GitHub /Tailwind-CSS
 
-- 🔭 I’m currently working on Working on self development 
-- 🌱 I’m currently learning Tailwind and Git 
-- 👯 I’m looking to collaborate on Git & gitHub 
+- 🔭 I’m currently working on On self development 
+- 🌱 I’m currently learning Tailwind CSS 
+- 👯 I’m looking to collaborate on Git & GitHub 
 - 💬 Ask me about Web development 
-- 📫 How to reach me: Phone call or social media 
+- 📫 How to reach me: ishtiak.sparrow98@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ishtiak007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ishtiakahmed01999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ishtiak_ahmed99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ishtiak02236404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ishtiak007.github.io/My_protfolio_demo_-one-/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ishtiak007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ishtiakahmed01999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ishtiak_ahmed99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ishtiak02236404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/pen/tour/welcome/start)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ishtiak007.github.io/My_protfolio_demo_-one-/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
