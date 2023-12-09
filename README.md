@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hi,+!+👋;+I'm+Ishtiak+Ahmed!;" />
 </h1>
 
-<h3 align="center">Passionate MERN Stack developer from Bangladesh, weaving digital magic with MERN skills.</h3>
+<h3 align="center">CSE student & passionate MERN Stack developer from BD, weaving digital magic with MERN skills.</h3>
 <br/>
 
 
