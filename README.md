@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishtiak007/Ishtiak007/blob/main/githubBanner3.png)
+![logo](https://github.com/Ishtiak007/Ishtiak007/blob/main/Github-Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak007&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak007" /> </p>
 
 
@@ -29,13 +29,13 @@
 
 🌱 I’m currently learning **Material UI, Redux, TypeScript**
 
-👨‍💻 All of my projects are available at [Working on it](Working on it)
+👨‍💻 All of my projects are available at <a>https://ishtiak-ahmed-portfolio18.netlify.app/</a>
 
 💬 Ask me about **Git, Bootstrap, Tailwind, DaisyUI, Javascript, React, Node, Express, MongoDB, Firebase, Netlify, Vercel, JWT Token,**
 
-📫 How to reach me **ishtiak.sparrow98@gmail.com**
+📫 How to reach me **ishtiakahmed18899@gmail.com**
 
-📄 Know about my experiences [Working on it](Working on it)
+📄 Know about my experiences [Working on it]
 
 ⚡ Fun fact **I find joy in immersing myself in sports, movies and series**
 
@@ -44,13 +44,13 @@
 <div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
 
 <div align="center"> 
-  <a href="ishtiak.sparrow98@gmail.com">
+  <a href="ishtiakahmed18899@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ishtiak-ahmed-2846722a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://657846b3a104854cfc2cdbe6--snazzy-raindrop-34efba.netlify.app" target="_blank">
+  <a href="https://ishtiak-ahmed-portfolio18.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
