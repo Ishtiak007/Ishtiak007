@@ -72,7 +72,7 @@
 <h2 align="center">⚡ My Streak ⚡</h2>
 <br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ishtiak007&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Ishtiak007&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
