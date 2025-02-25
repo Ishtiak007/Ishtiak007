@@ -29,7 +29,7 @@
 
 🌱 I’m currently learning **Material UI, Redux, TypeScript**
 
-👨‍💻 All of my projects are available at <a>https://ishtiak-ahmed-portfolio-website.netlify.app/</a>
+👨‍💻 All of my projects are available at <a>https://ishtiak-ahmed.netlify.app/</a>
 
 💬 Ask me about **Git, Bootstrap, Tailwind, DaisyUI, Javascript, React, Node, Express, MongoDB, Firebase, Netlify, Vercel, JWT Token,**
 
