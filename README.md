@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishtiak007/Ishtiak007/blob/main/gitHubBanner.jpg)
+![logo](https://github.com/Ishtiak007/Ishtiak007/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak007&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak007" /> </p>
 
 
