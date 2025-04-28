@@ -15,29 +15,31 @@
 <div align="center">
 <h2 align="center">📢 About Me 📢</h2>
 <br>
-<p>
-  Greetings, I'm Ishtiak Ahmed, a Computer Science & Engineering student. Over the past year, I've dedicated myself to mastering website development, becoming well-versed in its intricacies. My comprehensive understanding spans all facets of web development, making me confident in tackling any MERN Stack project with excellence. Fueled by passion and determination, I am poised to contribute my skills and elevate projects to new heights in the dynamic world of web development.
-</p>
-  
+<p>I am Ishtiak Ahmed from Rangpur, Bangladesh. I'm studying a Bachelor of Science in Computer Science and Engineering from Rangpur Engineering College under affiliation with the University of Rajshahi.
+I am a enthusiastic full-stack web developer with hands-on experience in MERN stack technologies (MongoDB, Express.js, React.js, Node.js) and Next.js, Redux, TypeScript, and Tailwind CSS.
+
+With a year of hands-on experience in coding, I am inspired to develop innovative, scalable, and user-focused web solutions. My learning bent and problem-solving nature compel me to update and enhance myself amidst the ever-changing world of technology.
+
+Apart from coding, I enjoy watching films and visiting new places. I look forward to collaborating with fellow-minded individuals and being part of impactful projects.
+Let's join and do something worthwhile together!
+</p> 
 </div>
 
 
 
 <div align="center">
   
-  🔭 I’m currently working on **Next.js**
+  🔭 I’m currently working on **My Personal Project**
 
-🌱 I’m currently learning **Material UI, Redux, TypeScript**
+🌱 I’m currently learning **DBMS, SQL, PostgreSQL, Prisma, Docker, Aws, Vitest, Jest, GraphQL**
 
 👨‍💻 All of my projects are available at <a>https://ishtiak-ahmed.netlify.app/</a>
 
-💬 Ask me about **Git, Bootstrap, Tailwind, DaisyUI, Javascript, React, Node, Express, MongoDB, Firebase, Netlify, Vercel, JWT Token,**
+💬 Ask me about **Git, Bootstrap, Tailwind, DaisyUI, Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, Firebase, Next Auth, Netlify, Vercel, JWT Token**
 
 📫 How to reach me **ishtiakahmed18899@gmail.com**
 
-📄 Know about my experiences [Working on it]
-
-⚡ Fun fact **I find joy in immersing myself in sports, movies and series**
+⚡ Fun fact **I find joy in immersing myself in sports, movies, music and series**
 
 </div>
 
@@ -60,9 +62,9 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mui,vscode,git,github,figma,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,git,github,figma,netlify,vercel" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,next,nodejs,express,mongodb,firebase" /><br>
 </div>
 
 <br/>
