@@ -64,7 +64,7 @@ Let's join and do something worthwhile together!
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,git,github,figma,netlify,vercel" />
   <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,react,next,nodejs,express,mongodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,nodejs,express,mongodb,firebase" /><br>
 </div>
 
 <br/>
