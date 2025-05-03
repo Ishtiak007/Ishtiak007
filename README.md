@@ -33,7 +33,7 @@ Let's join and do something worthwhile together!
 
 🌱 I’m currently learning **DBMS, SQL, PostgreSQL, Prisma, Docker, Aws, Vitest, Jest, GraphQL**
 
-👨‍💻 All of my projects are available at <a>https://ishtiak-ahmed.netlify.app/</a>
+👨‍💻 My portfolio Website <a>https://ishtiak-ahmed.vercel.app/</a>
 
 💬 Ask me about **Git, Bootstrap, Tailwind, DaisyUI, Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, Firebase, Next Auth, Netlify, Vercel, JWT Token**
 
