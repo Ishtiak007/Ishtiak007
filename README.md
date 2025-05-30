@@ -37,7 +37,7 @@ Let's join and do something worthwhile together!
 
 💬 Ask me about **Git, Bootstrap, Tailwind, DaisyUI, Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, Firebase, Next Auth, Netlify, Vercel, JWT Token**
 
-📫 How to reach me **ishtiakahmed18899@gmail.com**
+📫 How to reach me **ishtiakahmed.dev@gmail.com**
 
 ⚡ Fun fact **I find joy in immersing myself in sports, movies, music and series**
 
@@ -46,7 +46,7 @@ Let's join and do something worthwhile together!
 <div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
 
 <div align="center"> 
-  <a href="ishtiakahmed18899@gmail.com">
+  <a href="ishtiakahmed.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ishtiak-ahmed-2846722a5" target="_blank">
