@@ -70,12 +70,6 @@ Let's join and do something worthwhile together!
 <br/>
 <hr/>
 
-<div align="center">
-<h2 align="center">⚡ My Streak ⚡</h2>
-<br>
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=Ishtiak007&theme=dark)](https://git.io/streak-stats)
-</div>
 
 
 <div align="center">
