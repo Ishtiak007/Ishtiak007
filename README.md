@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy....Hello,+!+👋;+I'm+Ishtiak+Ahmed!;" />
 </h1>
 
-<h3 align="center">Computer Science and Engineering student & passionate Full-Stack MERN enthusiast from Bangladesh, crafting digital experiences with modern web technologies.</h3>
+<h3 align="center">Computer Science and Engineering (CSE) student & passionate Full-Stack MERN enthusiast from Bangladesh, crafting digital experiences with modern web technologies.</h3>
 <br/>
 
 
