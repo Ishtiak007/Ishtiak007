@@ -20,7 +20,7 @@ I am a enthusiastic full-stack web developer with hands-on experience in MERN st
 
 With a year of hands-on experience in coding, I am inspired to develop innovative, scalable, and user-focused web solutions. My learning bent and problem-solving nature compel me to update and enhance myself amidst the ever-changing world of technology.
 
-Apart from coding, I enjoy watching films and visiting new places. I look forward to collaborating with fellow-minded individuals and being part of impactful projects.
+Apart from coding, I enjoy watching movies and visiting new places. I look forward to collaborating with fellow-minded individuals and being part of impactful projects.
 Let's join and do something worthwhile together!
 </p> 
 </div>
