@@ -35,7 +35,7 @@ Let's join and do something worthwhile together!
 
 👨‍💻 My portfolio Website <a>https://ishtiak-ahmed.vercel.app/</a>
 
-💬 Ask me about **Git, Bootstrap, TailwindCSS, DaisyUI, Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, Firebase, Next Auth, Netlify, Vercel, JWT Token**
+💬 Ask me about **Git and GitHub, Bootstrap, TailwindCSS, DaisyUI, Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, Firebase, Next Auth, Netlify, Vercel, JWT Token**
 
 📫 How to reach me **ishtiakahmed.dev@gmail.com**
 
