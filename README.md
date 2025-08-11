@@ -39,7 +39,7 @@ Let's join and do something worthwhile together!
 
 📫 How to reach me **ishtiakahmed.dev@gmail.com**
 
-⚡ Fun fact **I find joy in immersing myself in sports, movies, music and series**
+⚡ Fun fact **I find joy in immersing myself in sports, movies, music and Netflix series**
 
 </div>
 
