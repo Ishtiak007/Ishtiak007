@@ -31,7 +31,7 @@ Let's join and do something worthwhile together!
   
   💼 I’m currently working on **StackPlus,Singapore**
 
-📈 I’m currently learning **Python, DBMS, SQL, PostgreSQL, Prisma, Docker, Aws, Vitest, Jest, GraphQL**
+📈 Next plan about **Python, DBMS, SQL, PostgreSQL, Prisma, Docker, Aws, Vitest, Jest, GraphQL**
 
 👨‍💻 My portfolio Website <a>https://ishtiak-ahmed.vercel.app/</a>
 
