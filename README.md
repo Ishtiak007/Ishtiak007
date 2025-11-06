@@ -13,7 +13,7 @@
 <hr>
 
 <div align="center">
-<h2 align="center">📢 About 📢</h2>
+<h2 align="center">📢 About Me 📢</h2>
 <br>
 <p>I 'm Ishtiak Ahmed from Rangpur, Bangladesh. I am studying a Bachelor of Science (BSc.) in Computer Science and Engineering (CSE) from University of Rajshahi.
 I am a enthusiastic full-stack web developer with hands-on experience in MERN stack technologies (MongoDB, Express.js, React.js, Node.js) and Next.js, Redux, TypeScript, and Tailwind CSS.
