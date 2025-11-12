@@ -25,6 +25,18 @@ Let's join and do something worthwhile together!
 </p> 
 </div>
 
+<div align="center">
+<h3>📞 Connect with Me</h3>
+
+<a href="https://t.me/ishtiakahmed99" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+<a href="https://wa.me/8801853196899" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+</div>
+
 
 
 <div align="center">
