@@ -26,7 +26,7 @@ Let's join and do something worthwhile together!
 </div>
 
 <div align="center">
-<h3>📞 Connect with Me</h3>
+<h3> Connect with Me </h3>
 
 <a href="https://t.me/ishtiakahmed99" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
