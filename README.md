@@ -114,8 +114,21 @@ Let's join and do something worthwhile together!
 <hr>
 
 <div align="center">
-<h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiak007" alt="ishtiak007" /></a> </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,50:c0c0c0,100:a0a0a0&height=120&section=header&text=🏆%20GitHub%20Trophies&fontSize=30&fontColor=000000&fontAlignY=65&animation=twinkling"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ishtiak007&theme=flat&no-frame=false&no-bg=true&margin-w=6&column=7" alt="Ishtiak007 trophies" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a0a0a0,50:c0c0c0,100:e0e0e0&height=80&section=footer"/>
+
 </div>
 
 
