@@ -41,7 +41,7 @@ Let's join and do something worthwhile together!
 
 <div align="center">
   
-  💼 I’m currently working on **StackPlus,Singapore**
+  💼 I’m currently working on **BlackDevs, Rangpur, Bangladesh**
 
 📈 Next plan about **Python, DBMS, SQL, PostgreSQL, Prisma, Docker, Aws, Vitest, Jest, GraphQL**
 
